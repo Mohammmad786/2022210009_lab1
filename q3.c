@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+//helooooo
 typedef struct MatchDetails {
     int runsScored;
     int ballsPlayed;
